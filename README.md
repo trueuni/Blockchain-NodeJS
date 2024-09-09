@@ -30,7 +30,3 @@ In this project, I have created a blockchain-like data structure with Express, N
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Useful links
-
-- [JSON Formatter Chrome extension](https://github.com/callumlocke/json-formatter)
-- [Learn Blockchain by building your own in JavaScript - Eric Traub](https://www.udemy.com/course/build-a-blockchain-in-javascript/)
